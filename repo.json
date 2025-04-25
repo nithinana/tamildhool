@@ -1,0 +1,6 @@
+{
+  "name": "TamilDhool Repository",
+  "description": "A Cloudstream3 plugin for TamilDhool.net",
+  "manifestVersion": 1,
+  "plugins": "https://your-host.com/plugins.json"
+}

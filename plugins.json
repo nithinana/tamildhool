@@ -1,0 +1,11 @@
+[
+  {
+    "name": "TamilDhool",
+    "filename": "TamilDhoolProvider.cs3",
+    "version": 1,
+    "language": "ta",
+    "internalName": "com.likdev256.TamilDhoolProvider",
+    "repoUrl": "https://your-host.com",
+    "pluginUrl": "https://your-host.com/plugins/TamilDhoolProvider.cs3"
+  }
+]
