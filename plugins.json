@@ -6,6 +6,6 @@
     "language": "ta",
     "internalName": "com.likdev256.TamilDhoolProvider",
     "repoUrl": "https://your-host.com",
-    "pluginUrl": "https://your-host.com/plugins/TamilDhoolProvider.cs3"
+    "pluginUrl": "https://raw.githubusercontent.com/nithinana/tamildhool/main/TamilDhoolProvider.cs3"
   }
 ]
